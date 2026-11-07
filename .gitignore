@@ -1,0 +1,6 @@
+# build artifact
+build/
+.obj/
+*.o
+*.o.json
+*.out
